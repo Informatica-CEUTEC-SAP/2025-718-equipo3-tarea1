@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yodz7R4/Fso=",
+  "success": true,
+  "projectFilePath": "/Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/TAREA1GRUPO3.csproj",
+  "expectedPackageFiles": [
+    "/Users/wilmerisaacgodoyescoto/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/wilmerisaacgodoyescoto/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

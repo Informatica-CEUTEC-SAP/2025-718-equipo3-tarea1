@@ -1,0 +1,6 @@
+@TAREA1GRUPO3_HostAddress = http://localhost:5044
+
+GET {{TAREA1GRUPO3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

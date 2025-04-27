@@ -16,6 +16,9 @@ builder.Services.AddSwaggerGen();
 #endregion Step2: Service Registration
     
 #region Step3: Build the application
+ 
+ builder.Services.AddControllers();
+ 
 var app = builder.Build();
 #endregion Step3: Build the application
 
@@ -36,5 +39,6 @@ app.UseHttpsRedirection();
 #endregion Step4: Middleware Pipeline Configuration
 
 #region Step5: Start the Application
+ app.MapControllers();
 app.Run();
 #endregion Step5: Start the Application

@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace TAREA1GRUPO3;
@@ -23,16 +24,28 @@ public class EventoController : Controller
             }
 
         },
+        
     };
 
-    [HttpGet("eventos")]    
-
+    [HttpGet("eventos")] 
     public IActionResult Eventos()
     {
         return Ok(eventos);
     }
 
-};
+    [HttpGet("eventos/{id}")]
+
+    public IActionResult Evento([FromRoute] int id)
+    {
+        var evento = eventos.FirstOrDefault(x => x.Id == id);
+        if (evento == null)
+        {
+            return NotFound();
+        }
+        return Ok(evento); 
+    } 
+    
+}
 
 
 /* GET

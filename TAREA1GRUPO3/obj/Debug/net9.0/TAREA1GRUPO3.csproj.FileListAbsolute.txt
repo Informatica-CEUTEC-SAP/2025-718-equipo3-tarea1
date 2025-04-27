@@ -6,7 +6,6 @@
 /Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/bin/Debug/net9.0/TAREA1GRUPO3.runtimeconfig.json
 /Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/bin/Debug/net9.0/TAREA1GRUPO3.dll
 /Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/bin/Debug/net9.0/TAREA1GRUPO3.pdb
-/Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/bin/Debug/net9.0/Microsoft.OpenApi.dll
 /Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/obj/Debug/net9.0/TAREA1GRUPO3.csproj.AssemblyReference.cache
 /Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/obj/Debug/net9.0/TAREA1GRUPO3.GeneratedMSBuildEditorConfig.editorconfig
@@ -32,3 +31,6 @@
 /Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/obj/Debug/net9.0/TAREA1GRUPO3.pdb
 /Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/obj/Debug/net9.0/TAREA1GRUPO3.genruntimeconfig.cache
 /Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/obj/Debug/net9.0/ref/TAREA1GRUPO3.dll
+/Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll

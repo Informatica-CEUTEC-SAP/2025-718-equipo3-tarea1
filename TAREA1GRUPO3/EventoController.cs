@@ -24,10 +24,19 @@ public class EventoController : Controller
             }
 
         },
-        
+        new Evento
+        {
+            Id = 2,
+            Nombre = "Inauguracion de starbucks",
+            Ciudad = "Roatan",
+            Categoria = "Local/negocio",
+            Fecha = DateTime.Now,
+            Participantes = new List<Participantes>()
+        }
+
     };
 
-    [HttpGet("eventos")] 
+    [HttpGet("eventos")]
     public IActionResult Eventos()
     {
         return Ok(eventos);
@@ -42,10 +51,23 @@ public class EventoController : Controller
         {
             return NotFound();
         }
-        return Ok(evento); 
-    } 
-    
-}
+
+        return Ok(evento);
+    }
+
+    [HttpPost("eventos")]
+    public IActionResult AgregarEvento([FromBody] Evento nuevoEvento)
+    {
+        if (nuevoEvento == null)
+            return BadRequest();
+        
+        nuevoEvento.Id = eventos.Max(x => x.Id) + 1;
+        eventos.Add(nuevoEvento);
+        return CreatedAtAction(nameof(Evento),new { Id = nuevoEvento.Id }, nuevoEvento);
+    }
+  }
+
+
 
 
 /* GET

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/TAREA1GRUPO3.csproj": {}
+    "/Users/wilmerisaacgodoyescoto/Development/2025-718-equipo3-tarea1/TAREA1GRUPO3/TAREA1GRUPO3.csproj": {}
   },
   "projects": {
-    "/Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/TAREA1GRUPO3.csproj": {
+    "/Users/wilmerisaacgodoyescoto/Development/2025-718-equipo3-tarea1/TAREA1GRUPO3/TAREA1GRUPO3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/TAREA1GRUPO3.csproj",
+        "projectUniqueName": "/Users/wilmerisaacgodoyescoto/Development/2025-718-equipo3-tarea1/TAREA1GRUPO3/TAREA1GRUPO3.csproj",
         "projectName": "TAREA1GRUPO3",
-        "projectPath": "/Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/TAREA1GRUPO3.csproj",
+        "projectPath": "/Users/wilmerisaacgodoyescoto/Development/2025-718-equipo3-tarea1/TAREA1GRUPO3/TAREA1GRUPO3.csproj",
         "packagesPath": "/Users/wilmerisaacgodoyescoto/.nuget/packages/",
-        "outputPath": "/Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/obj/",
+        "outputPath": "/Users/wilmerisaacgodoyescoto/Development/2025-718-equipo3-tarea1/TAREA1GRUPO3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wilmerisaacgodoyescoto/.nuget/NuGet/NuGet.Config"

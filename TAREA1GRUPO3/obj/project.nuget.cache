@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sfrYmo8u5M4=",
+  "dgSpecHash": "NpuPrYTk7CU=",
   "success": true,
-  "projectFilePath": "/Users/wilmerisaacgodoyescoto/Development/GitHub/Tarea1grupo-3/TAREA1GRUPO3/TAREA1GRUPO3.csproj",
+  "projectFilePath": "/Users/wilmerisaacgodoyescoto/Development/2025-718-equipo3-tarea1/TAREA1GRUPO3/TAREA1GRUPO3.csproj",
   "expectedPackageFiles": [
     "/Users/wilmerisaacgodoyescoto/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/wilmerisaacgodoyescoto/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
